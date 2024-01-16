@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pranav Sharma 
 - 👀 I’m interested in ... Web development and electronics.
 - 🌱 I’m currently learning ... Web Dev and other technologies :)
-- 📫 How to reach me ... Hit me up on discord pronav497
+- 📫 How to reach me ... Hit me up on discord @pronav497
 
 
 <!---
